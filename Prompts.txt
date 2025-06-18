@@ -1,0 +1,23 @@
+>can help you create a Dig Dug-like game in C++. 
+
+Dig Dug is a classic arcade game where the player digs tunnels underground and defeats enemies by either pumping them up until they burst or by 
+dropping rocks on them.
+
+Let's create a simple console-based version of this game. I'll structure it with the basic elements:
+
+1. A player character that can move and dig
+2. Enemies that move through the tunnels
+3. A grid-based map with dirt, rocks, and tunnels
+4. A simple scoring system
+
+
+> can you create digdug project in my home folder
+
+> can you update game to use red color to identify location of player
+
+> can you convert this application to graphic application that can run on X11
+
+> can you replace squares with images similar to original pacman?
+
+> can you add more sound effect for Pac-man munch and death similar to sound effects on this website https://www.classicgaming.cc/classics/pac-man/sounds
+
